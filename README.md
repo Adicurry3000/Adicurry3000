@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adicurry3000
-- 👀 I’m interested in Python, Web development, Javascript, HTML, CSS
-- 🌱 I’m currently learning nodeJS and ReactJS
+- 👀 I’m interested in Python, Web development, Javascript, HTML, CSS, C++
+- 🌱 I’m currently learning to improve at Python and hope to learn more languages.
 - 📫 How to reach me: adicurry300@gmail.com
 
 <!---
